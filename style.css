@@ -263,6 +263,7 @@ a, button {
 	background-attachment: fixed;
 	font-family: cursive;
 	z-index: -9;
+
 }
 .smbox {
 	display: flex;
